@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to CodingAcademi Private Limited. Bengaluru,Karnataka,India </h1>
-<h1 align="center"> Welcome to CodingAcademi,I am Newly Updating this File for GITHUb WebHooks Testing Scanario For Jenkins Data</h1>
+<h1 align="center"> Welcome to CodingAcademi,I am Newly Updating this File for GITHUb WebHooks Testing Scanario </h1>
 	
 <hr>
 <br>
