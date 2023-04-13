@@ -40,7 +40,7 @@ catch(e){
 currentBuild.result = "FAILURE"
 }
 finally{
-sendSlackNotifications(currentBuild.result)
+//sendSlackNotifications(currentBuild.result)
 }
   
 }
